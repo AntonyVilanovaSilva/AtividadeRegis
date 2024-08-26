@@ -1,0 +1,14 @@
+C:\Users\manha.cetafest\Documents\GitHub\AtividadeRegis\Atividade de Reginaldo\Atividade de Reginaldo\bin\Debug\net6.0\Atividade de Reginaldo.exe
+C:\Users\manha.cetafest\Documents\GitHub\AtividadeRegis\Atividade de Reginaldo\Atividade de Reginaldo\bin\Debug\net6.0\Atividade de Reginaldo.deps.json
+C:\Users\manha.cetafest\Documents\GitHub\AtividadeRegis\Atividade de Reginaldo\Atividade de Reginaldo\bin\Debug\net6.0\Atividade de Reginaldo.runtimeconfig.json
+C:\Users\manha.cetafest\Documents\GitHub\AtividadeRegis\Atividade de Reginaldo\Atividade de Reginaldo\bin\Debug\net6.0\Atividade de Reginaldo.dll
+C:\Users\manha.cetafest\Documents\GitHub\AtividadeRegis\Atividade de Reginaldo\Atividade de Reginaldo\bin\Debug\net6.0\Atividade de Reginaldo.pdb
+C:\Users\manha.cetafest\Documents\GitHub\AtividadeRegis\Atividade de Reginaldo\Atividade de Reginaldo\obj\Debug\net6.0\Atividade de Reginaldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manha.cetafest\Documents\GitHub\AtividadeRegis\Atividade de Reginaldo\Atividade de Reginaldo\obj\Debug\net6.0\Atividade de Reginaldo.AssemblyInfoInputs.cache
+C:\Users\manha.cetafest\Documents\GitHub\AtividadeRegis\Atividade de Reginaldo\Atividade de Reginaldo\obj\Debug\net6.0\Atividade de Reginaldo.AssemblyInfo.cs
+C:\Users\manha.cetafest\Documents\GitHub\AtividadeRegis\Atividade de Reginaldo\Atividade de Reginaldo\obj\Debug\net6.0\Atividade de Reginaldo.csproj.CoreCompileInputs.cache
+C:\Users\manha.cetafest\Documents\GitHub\AtividadeRegis\Atividade de Reginaldo\Atividade de Reginaldo\obj\Debug\net6.0\Atividade de Reginaldo.dll
+C:\Users\manha.cetafest\Documents\GitHub\AtividadeRegis\Atividade de Reginaldo\Atividade de Reginaldo\obj\Debug\net6.0\refint\Atividade de Reginaldo.dll
+C:\Users\manha.cetafest\Documents\GitHub\AtividadeRegis\Atividade de Reginaldo\Atividade de Reginaldo\obj\Debug\net6.0\Atividade de Reginaldo.pdb
+C:\Users\manha.cetafest\Documents\GitHub\AtividadeRegis\Atividade de Reginaldo\Atividade de Reginaldo\obj\Debug\net6.0\Atividade de Reginaldo.genruntimeconfig.cache
+C:\Users\manha.cetafest\Documents\GitHub\AtividadeRegis\Atividade de Reginaldo\Atividade de Reginaldo\obj\Debug\net6.0\ref\Atividade de Reginaldo.dll
